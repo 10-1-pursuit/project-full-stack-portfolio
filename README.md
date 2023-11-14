@@ -4,7 +4,7 @@ This project is designed to test all of the skills you've learned so far. By the
 
 ## Project scoring
 
-This project has three different parts on which you will be graded. Each part is weighted differently.
+This project has four different parts on which you will be graded. Each part is weighted differently.
 
 - 50% of the project is scored on **completion**.
 - 20% of the project is scored through the **mastery rubric**.
