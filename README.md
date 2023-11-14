@@ -6,11 +6,12 @@ This project is designed to test all of the skills you've learned so far. By the
 
 This project has three different parts on which you will be graded. Each part is weighted differently.
 
-- 70% of the project is scored on **completion**.
+- 50% of the project is scored on **completion**.
 - 20% of the project is scored through the **mastery rubric**.
 - 10% of the project is scored through **stretch goals**.
+- 20% of the project is scored through **presentation video recording**
 
-In total, you must receive at least 70% to complete this project. For example, you could attain 55% of points through the completion requirements, 10% of points through the mastery rubric, and 5% of points through the stretch goals.
+In total, you must receive at least 70% to complete this project. For example, you could attain 40% of points through the completion requirements, 10% of points through the mastery rubric, and 5% of points through the stretch goals, 15% of points through the presentation rubric.
 
 ### Completion
 
@@ -78,6 +79,16 @@ When you submit your pull request, _make sure to include a description of any st
 - Make your application responsive to different kinds of devices.
 
 Points will be allocated in this section at the discretion of the instructor.
+
+
+## Presentation: Video Recording
+
+We will NOT be presenting our projects live, but presenting is another skill you must get comfortable with. Eventually you will be walking prospective employers through your work. You need to be able to articulate what your problem your project solves, what features a user can expect to see on your application, as well as explain the code that powers your application
+
+### Requirements:
+- Your presentation must be recorded and you must add the recorded video link to your README.
+- Your presentation must be at least **three** minutes long.
+- A good presentation will cover each of the sections on this [rubric](https://pursuit.instructure.com/courses/161/assignments/1897). 
 
 ## Getting started
 
